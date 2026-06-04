@@ -1,0 +1,47 @@
+﻿# Django
+*.log
+*.pyc
+__pycache__/
+db.sqlite3
+db.sqlite3-*
+/media/
+/static/
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+.venv/
+virtualenv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+*.py[cod]
+*.so
+.Python
+
+# Conda
+conda/
+pkgs/
+envs/
+
+# User files from C:\Users
+*.json
+*.txt
+*.xml
+*.log
+urls*
+C:\Users\
+
+# Large files
+*.sqlite
+*.db
+*.bak
